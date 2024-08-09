@@ -1,6 +1,6 @@
 # Basic Home Lab Running Active Directory
 
-This repository contains steps on how i set up a basic home lab running Active Directory following a tutorial by [Josh Madakor](https://www.youtube.com/@JoshMadakor)
+This repository contains steps on how i set up a basic home lab running Active Directory
 
 ## Diagram
 ![image](https://github.com/user-attachments/assets/9c5f13a1-63bb-44fa-a6ba-0b508db57dbe)
